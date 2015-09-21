@@ -1,5 +1,11 @@
 # wbrazilian-without-non-ascii-words
+
 wbrazilian without non-ascii words
+
+Brazilian Portuguese wordlist
+This contains part of the wbrazilian wordlist, but with all non-ascii words removed
+
+generated from https://packages.debian.org/en/sid/wbrazilian
 
 ```bash
 luzfcb@luzfcb:~$ sudo apt-get install wbrazilian
